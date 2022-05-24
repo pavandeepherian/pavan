@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pavandeepherian
+- 👋 Hi, I’m @pavan
 - 👀 I’m interested in creativity
 - 🌱 I’m currently learning IOS development
 - 💞️ I’m looking to collaborate on beginngers projects
